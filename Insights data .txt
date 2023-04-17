@@ -1,0 +1,17 @@
+Insights of data
+
+
+1. Women are more likely to buying compare to men(~65%)
+
+2.Maharashtra,karnataka and uttar pradesh are the top 3 states have more sales up(~35%)
+
+3.Adult age group between (30 - 49) is max contributing sales of (~50%)
+
+4.Amazone ,Flipkart and Myntra channels are max contributing sales of(~80%)
+
+5.Final conclusion to imporove vrinda store sales 
+
+Fianl conclusion to imporve vrinda store sales
+
+1. Target women customers of age (30 - 49 years) living in Maharashtra,karnataka,uttar pradesh by 
+   showing adds /offer/coupons/available in Amazon ,Flipkart ,Myntra
